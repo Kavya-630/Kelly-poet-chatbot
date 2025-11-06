@@ -19,6 +19,7 @@ She answers every question about AI, science, and experiments — but always in 
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository
+for demo - https://kelly-poet-chatbot-3ak2uxqqedz9jem7dkucla.streamlit.app/
 ```bash
 git clone https://github.com/yourusername/kelly-poet-chatbot.git
 cd kelly-poet-chatbot
